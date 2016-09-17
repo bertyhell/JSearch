@@ -1,0 +1,29 @@
+{
+  "name": "jsearch",
+  "version": "1.0.0",
+  "description": "Client side javascript search for static websites",
+  "main": "grunt/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertyhell/jsearch.git"
+  },
+  "keywords": [
+    "search",
+    "clientside",
+    "javascript"
+  ],
+  "author": "Bert Verhelst and Laurens Hellinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertyhell/jsearch/issues"
+  },
+  "homepage": "https://github.com/bertyhell/jsearch#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "grunt": "^1.0.1",
+    "lodash": "^4.15.0"
+  }
+}

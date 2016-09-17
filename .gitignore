@@ -1,2 +1,4 @@
 gui/obj/
 gui/bin/
+node_modules/
+test-website/
