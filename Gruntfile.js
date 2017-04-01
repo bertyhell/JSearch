@@ -4,7 +4,7 @@ module.exports = function(grunt) {
       build: {
         root: './test-website',
         src: './test-website/**/*.htm',
-        dest: './test-website/search_index.js'
+        dest: './test-website/script/search_index.json'
       }
     }
   });

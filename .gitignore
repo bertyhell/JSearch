@@ -3,3 +3,5 @@ gui/bin/
 node_modules/
 test-website/
 .idea/
+
+typings/

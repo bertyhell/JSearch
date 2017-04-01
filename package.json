@@ -23,6 +23,7 @@
   "homepage": "https://github.com/bertyhell/jsearch#readme",
   "dependencies": {
     "cheerio": "^0.22.0",
+    "cheerio-get-css-selector": "^1.0.0",
     "grunt": "^1.0.1",
     "lodash": "^4.15.0"
   }

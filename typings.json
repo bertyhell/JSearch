@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "cheerio": "registry:dt/cheerio#0.17.0+20160930124405",
+    "gruntjs": "registry:dt/gruntjs#0.4.0+20160602153508",
+    "lodash": "registry:dt/lodash#4.14.0+20161004174455",
+    "node": "registry:dt/node#6.0.0+20161019125345"
+  }
+}
